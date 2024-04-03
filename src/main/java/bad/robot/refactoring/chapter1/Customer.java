@@ -16,6 +16,7 @@ public class Customer {
         return name;
     }
 
+    
     public void addRental(Rental rental) {
         rentals.add(rental);
     }
